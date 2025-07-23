@@ -21,7 +21,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'image-bg': "url('/src/Rectangle.png')", 
+        'image-bg': "url('/src/image.png')", 
         'image-bg1': "url('/src/Rectangle16.png')",
         'image-bg2': "url('/src/Rectangle1.png')",
       },
